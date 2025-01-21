@@ -1,5 +1,6 @@
 package com.teachmeskills.lesson_27.servlet;
 
+import com.teachmeskills.lesson_27.logger.LoggerUtil;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;
 import jakarta.servlet.http.HttpServlet;
@@ -17,8 +18,10 @@ public class AboutServlet extends HttpServlet {
         String userName = (String) session.getAttribute("username");
 
         if (userName != null) {
+            LoggerUtil.logToFile("The user -> " + userName + " went to the about me page");
             req.getRequestDispatcher( "/page/about.html").forward(req, resp);
         }else {
+            LoggerUtil.logToFile("User redirected to 401 error page");
             resp.sendRedirect("error/401.html");
         }
     }

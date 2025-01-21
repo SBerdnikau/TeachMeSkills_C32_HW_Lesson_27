@@ -28,6 +28,7 @@ public class LogoutServlet extends HttpServlet {
             resp.sendRedirect("/login.html");
         }catch (Exception e) {
             resp.setStatus(HttpServletResponse.SC_INTERNAL_SERVER_ERROR);
+            LoggerUtil.logToFile("User redirected to 500 error page");
             resp.sendRedirect("error/500.html");
         }
     }

@@ -1,377 +1,85 @@
-
-2025-01-20 21:14:11 - The request has been initialized: 127.0.0.1
-2025-01-20 21:14:11 - The request is destroyed: 127.0.0.1
-2025-01-20 21:14:11 - The request has been initialized: 127.0.0.1
-2025-01-20 21:14:11 - The request is destroyed: 127.0.0.1
-2025-01-20 21:14:19 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 21:14:19 - Login attempt -> username=admin
-2025-01-20 21:14:19 - The session has been created:  DA979FACB08DA32762C29C2FC3A4BE49
-2025-01-20 21:14:19 - Successful login -> admin
-2025-01-20 21:14:19 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 21:14:24 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 21:14:24 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 21:14:26 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 21:14:26 - The user logs out of the system -> admin
-2025-01-20 21:14:26 - The session is destroyed:  DA979FACB08DA32762C29C2FC3A4BE49
-2025-01-20 21:14:26 - User session admin completed successfully
-2025-01-20 21:14:26 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 21:15:42 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 21:15:42 - Registration attempt -> username=Anna
-2025-01-20 21:15:42 - The session has been created:  5F9A6B96386A26DFF8D089CB1A2CAB9D
-2025-01-20 21:15:42 - Successful registration -> Anna
-2025-01-20 21:15:42 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 21:15:45 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 21:15:45 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 21:15:49 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 21:15:49 - The user logs out of the system -> Anna
-2025-01-20 21:15:49 - The session is destroyed:  5F9A6B96386A26DFF8D089CB1A2CAB9D
-2025-01-20 21:15:49 - User session Anna completed successfully
-2025-01-20 21:15:49 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 21:22:01 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 21:22:01 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 21:22:01 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 21:22:01 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 21:22:01 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 21:22:01 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 21:22:21 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 21:22:21 - The session has been created:  869F6BA31581A31C55D14695166C20F0
-2025-01-20 21:22:21 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 21:22:21 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 21:22:21 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 21:22:42 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 21:22:42 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 21:33:33 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 21:33:33 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 21:33:33 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 21:33:33 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 21:33:33 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 21:33:33 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 21:33:51 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 21:33:51 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 21:33:51 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 21:33:51 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 21:41:43 - The session is destroyed:  869F6BA31581A31C55D14695166C20F0
-2025-01-20 21:41:50 - The request has been initialized: 127.0.0.1
-2025-01-20 21:41:50 - The request is destroyed: 127.0.0.1
-2025-01-20 21:41:50 - The request has been initialized: 127.0.0.1
-2025-01-20 21:41:50 - The request is destroyed: 127.0.0.1
-2025-01-20 21:45:02 - The request has been initialized: 127.0.0.1
-2025-01-20 21:45:02 - The request is destroyed: 127.0.0.1
-2025-01-20 21:45:02 - The request has been initialized: 127.0.0.1
-2025-01-20 21:45:02 - The request is destroyed: 127.0.0.1
-2025-01-20 21:45:31 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 21:45:31 - The session has been created:  42AE79D4C12384574C8427C0E110743F
-2025-01-20 21:45:31 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 21:45:31 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 21:45:31 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 21:46:04 - The session is destroyed:  42AE79D4C12384574C8427C0E110743F
-2025-01-20 21:46:08 - The request has been initialized: 127.0.0.1
-2025-01-20 21:46:08 - The request is destroyed: 127.0.0.1
-2025-01-20 21:46:08 - The request has been initialized: 127.0.0.1
-2025-01-20 21:46:08 - The request is destroyed: 127.0.0.1
-2025-01-20 21:46:09 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 21:46:09 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 21:46:24 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 21:46:24 - The session has been created:  A879DB216197E0DED05BA76EC329B923
-2025-01-20 21:46:24 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 21:48:18 - The session is destroyed:  A879DB216197E0DED05BA76EC329B923
-2025-01-20 21:48:23 - The request has been initialized: 127.0.0.1
-2025-01-20 21:48:23 - The request is destroyed: 127.0.0.1
-2025-01-20 21:48:23 - The request has been initialized: 127.0.0.1
-2025-01-20 21:48:23 - The request is destroyed: 127.0.0.1
-2025-01-20 21:48:46 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 21:48:46 - The session has been created:  28AF83150A71D2E5C2128B851FB92F61
-2025-01-20 21:48:46 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 21:48:46 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 21:48:46 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 21:54:27 - The session is destroyed:  28AF83150A71D2E5C2128B851FB92F61
-2025-01-20 21:54:31 - The request has been initialized: 127.0.0.1
-2025-01-20 21:54:31 - The request is destroyed: 127.0.0.1
-2025-01-20 21:54:31 - The request has been initialized: 127.0.0.1
-2025-01-20 21:54:31 - The request is destroyed: 127.0.0.1
-2025-01-20 21:57:45 - The request has been initialized: 127.0.0.1
-2025-01-20 21:57:45 - The request is destroyed: 127.0.0.1
-2025-01-20 21:57:45 - The request has been initialized: 127.0.0.1
-2025-01-20 21:57:45 - The request is destroyed: 127.0.0.1
-2025-01-20 21:58:17 - The request has been initialized: 127.0.0.1
-2025-01-20 21:58:17 - The request is destroyed: 127.0.0.1
-2025-01-20 21:58:17 - The request has been initialized: 127.0.0.1
-2025-01-20 21:58:17 - The request is destroyed: 127.0.0.1
-2025-01-20 21:58:18 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 21:58:18 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 21:58:18 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 21:58:18 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 21:58:18 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 21:58:18 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 21:58:32 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 22:01:17 - The session has been created:  198C7784705067C3B13F1D48936B20B0
-2025-01-20 22:03:24 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 22:03:24 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 22:03:24 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 22:03:25 - The session is destroyed:  198C7784705067C3B13F1D48936B20B0
-2025-01-20 22:03:32 - The request has been initialized: 127.0.0.1
-2025-01-20 22:03:32 - The request is destroyed: 127.0.0.1
-2025-01-20 22:03:32 - The request has been initialized: 127.0.0.1
-2025-01-20 22:03:32 - The request is destroyed: 127.0.0.1
-2025-01-20 22:03:47 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 22:05:26 - The session has been created:  F53AB36A43F120FE6978BFB27C49A66D
-2025-01-20 22:07:13 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 22:07:24 - The session is destroyed:  F53AB36A43F120FE6978BFB27C49A66D
-2025-01-20 22:07:37 - The request has been initialized: 127.0.0.1
-2025-01-20 22:07:37 - The request is destroyed: 127.0.0.1
-2025-01-20 22:07:37 - The request has been initialized: 127.0.0.1
-2025-01-20 22:07:37 - The request is destroyed: 127.0.0.1
-2025-01-20 22:07:46 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 22:07:46 - The session has been created:  9571AA30436AFB8509415A398B6F10A7
-2025-01-20 22:07:46 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 22:07:55 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 22:07:55 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 22:08:11 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 22:08:11 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 22:08:16 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 22:08:16 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 22:08:56 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 22:08:56 - The session has been created:  6CC525F354D052DEAB8791DD041A083A
-2025-01-20 22:08:56 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 22:08:56 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 22:08:56 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 22:09:00 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 22:09:00 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 22:09:29 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 22:09:29 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 22:09:29 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 22:09:29 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 22:09:29 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 22:09:29 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 22:10:04 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 22:10:04 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 22:10:04 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 22:10:04 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 22:11:36 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 22:11:36 - Login attempt -> username=admin
-2025-01-20 22:11:36 - Successful login -> admin
-2025-01-20 22:11:36 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 22:12:37 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 22:12:38 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 22:16:56 - The session is destroyed:  9571AA30436AFB8509415A398B6F10A7
-2025-01-20 22:16:56 - The session is destroyed:  6CC525F354D052DEAB8791DD041A083A
-2025-01-20 22:17:07 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 22:17:07 - The session has been created:  E5AA0B4CFF518DF86FB4D31926A1F52F
-2025-01-20 22:17:07 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 22:17:13 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 22:17:13 - Login attempt -> username=admin
-2025-01-20 22:17:13 - Successful login -> admin
-2025-01-20 22:17:13 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 22:17:16 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 22:17:17 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 22:18:15 - The session is destroyed:  E5AA0B4CFF518DF86FB4D31926A1F52F
-2025-01-20 22:18:19 - The request has been initialized: 127.0.0.1
-2025-01-20 22:18:19 - The request is destroyed: 127.0.0.1
-2025-01-20 22:18:19 - The request has been initialized: 127.0.0.1
-2025-01-20 22:18:19 - The request is destroyed: 127.0.0.1
-2025-01-20 22:18:36 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 22:18:36 - The session has been created:  22E917BA29ECE3B42849C1FB20FC2119
-2025-01-20 22:18:36 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 22:18:46 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 22:18:46 - Login attempt -> username=admin
-2025-01-20 22:18:46 - Successful login -> admin
-2025-01-20 22:18:46 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 22:18:49 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 22:18:50 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 22:21:43 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 22:21:43 - The user logs out of the system -> admin
-2025-01-20 22:21:43 - The session is destroyed:  22E917BA29ECE3B42849C1FB20FC2119
-2025-01-20 22:21:43 - User session admin completed successfully
-2025-01-20 22:21:43 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 22:21:51 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 22:21:51 - Login attempt -> username=admin
-2025-01-20 22:21:51 - The session has been created:  28A9A25EA5341C2B988FDF9BC5D3EE32
-2025-01-20 22:21:51 - Successful login -> admin
-2025-01-20 22:21:51 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 22:21:55 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 22:21:55 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 22:22:10 - The session is destroyed:  28A9A25EA5341C2B988FDF9BC5D3EE32
-2025-01-20 22:22:15 - The request has been initialized: 127.0.0.1
-2025-01-20 22:22:15 - The request is destroyed: 127.0.0.1
-2025-01-20 22:22:15 - The request has been initialized: 127.0.0.1
-2025-01-20 22:22:15 - The request is destroyed: 127.0.0.1
-2025-01-20 22:22:15 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 22:22:15 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 22:22:38 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 22:22:38 - Login attempt -> username=admin
-2025-01-20 22:22:38 - The session has been created:  29FEEB0E33D6512EBB2A6849E8C06C9E
-2025-01-20 22:22:38 - Successful login -> admin
-2025-01-20 22:22:38 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 22:22:38 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 22:22:38 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 22:22:38 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 22:22:38 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 22:22:50 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 22:22:51 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 22:22:51 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 22:22:51 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 22:24:35 - The session is destroyed:  29FEEB0E33D6512EBB2A6849E8C06C9E
-2025-01-20 22:24:37 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 22:24:37 - The session has been created:  897D96CD32094223AA510BBFBAF0D41B
-2025-01-20 22:24:37 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 22:24:37 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 22:24:37 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 22:24:37 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 22:24:37 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 22:24:45 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 22:24:45 - Login attempt -> username=admin
-2025-01-20 22:24:45 - Successful login -> admin
-2025-01-20 22:24:45 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 22:24:50 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 22:24:50 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 22:24:50 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 22:24:50 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 22:25:35 - The session is destroyed:  897D96CD32094223AA510BBFBAF0D41B
-2025-01-20 22:25:44 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 22:25:44 - The session has been created:  05024DE25E24276A9C16159752A93470
-2025-01-20 22:25:44 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 22:25:53 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 22:25:53 - Login attempt -> username=admin
-2025-01-20 22:25:53 - Successful login -> admin
-2025-01-20 22:25:53 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 22:25:59 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 22:25:59 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 22:25:59 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 22:25:59 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 22:27:02 - The session is destroyed:  05024DE25E24276A9C16159752A93470
-2025-01-20 22:27:24 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 22:27:24 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 22:40:55 - The request has been initialized: 127.0.0.1
-2025-01-20 22:40:55 - The request is destroyed: 127.0.0.1
-2025-01-20 22:40:55 - The request has been initialized: 127.0.0.1
-2025-01-20 22:40:55 - The request is destroyed: 127.0.0.1
-2025-01-20 22:41:04 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 22:41:04 - Login attempt -> username=admin
-2025-01-20 22:41:04 - The session has been created:  DCC5FF8ED2852DFC01C9F1694CC017DF
-2025-01-20 22:41:04 - Successful login -> admin
-2025-01-20 22:41:04 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 22:41:08 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 22:41:09 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 22:41:09 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 22:41:09 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 22:46:34 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 22:46:34 - The user logs out of the system -> admin
-2025-01-20 22:46:34 - The session is destroyed:  DCC5FF8ED2852DFC01C9F1694CC017DF
-2025-01-20 22:46:34 - User session admin completed successfully
-2025-01-20 22:46:34 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 22:46:47 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 22:46:47 - Login attempt -> username=admin
-2025-01-20 22:46:47 - The session has been created:  5D77A8A412A4C154D0110E92E1D93752
-2025-01-20 22:46:47 - Successful login -> admin
-2025-01-20 22:46:47 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 22:49:10 - The session is destroyed:  5D77A8A412A4C154D0110E92E1D93752
-2025-01-20 22:50:37 - The request has been initialized: 127.0.0.1
-2025-01-20 22:50:37 - The request is destroyed: 127.0.0.1
-2025-01-20 22:50:37 - The request has been initialized: 127.0.0.1
-2025-01-20 22:50:37 - The request is destroyed: 127.0.0.1
-2025-01-20 22:50:45 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 22:50:45 - Login attempt -> username=admin
-2025-01-20 22:50:45 - The session has been created:  405E46DB345C261090FF27AF0862101E
-2025-01-20 22:50:45 - Successful login -> admin
-2025-01-20 22:50:45 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 22:50:48 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 22:50:49 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 22:50:49 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 22:50:49 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 22:51:13 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 22:51:13 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 22:57:29 - The session is destroyed:  405E46DB345C261090FF27AF0862101E
-2025-01-20 22:57:33 - The request has been initialized: 127.0.0.1
-2025-01-20 22:57:33 - The request is destroyed: 127.0.0.1
-2025-01-20 22:57:33 - The request has been initialized: 127.0.0.1
-2025-01-20 22:57:33 - The request is destroyed: 127.0.0.1
-2025-01-20 22:57:42 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 22:57:42 - Login attempt -> username=admin
-2025-01-20 22:57:42 - The session has been created:  00F51462D13B291777511FC24E8DA933
-2025-01-20 22:57:42 - Successful login -> admin
-2025-01-20 22:57:42 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 22:57:45 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 22:57:46 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 22:57:46 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 22:57:46 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 22:58:37 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 22:58:37 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 23:03:59 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 23:03:59 - The user logs out of the system -> admin
-2025-01-20 23:03:59 - The session is destroyed:  00F51462D13B291777511FC24E8DA933
-2025-01-20 23:03:59 - User session admin completed successfully
-2025-01-20 23:03:59 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 23:04:07 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 23:04:07 - Login attempt -> username=admin
-2025-01-20 23:04:07 - The session has been created:  DF9DE45C14FF5411A22C4A454E87E589
-2025-01-20 23:04:07 - Successful login -> admin
-2025-01-20 23:04:07 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 23:05:04 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 23:05:04 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 23:05:04 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 23:05:04 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 23:05:54 - The session is destroyed:  DF9DE45C14FF5411A22C4A454E87E589
-2025-01-20 23:05:58 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 23:05:58 - The session has been created:  FA5EE0EB1DACFA45597189DA9B2C3A2D
-2025-01-20 23:05:58 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 23:06:12 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 23:06:12 - Login attempt -> username=admin
-2025-01-20 23:06:12 - Successful login -> admin
-2025-01-20 23:06:12 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 23:06:15 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 23:06:16 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 23:06:16 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 23:06:16 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 23:29:17 - The session is destroyed:  FA5EE0EB1DACFA45597189DA9B2C3A2D
-2025-01-20 23:29:25 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 23:29:25 - The session has been created:  0BD9223F921E30192BC1D346D6D0563E
-2025-01-20 23:29:25 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 23:29:33 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 23:29:33 - Login attempt -> username=admin
-2025-01-20 23:29:33 - Successful login -> admin
-2025-01-20 23:29:33 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 23:29:36 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 23:29:36 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 23:29:36 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 23:29:36 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 23:32:39 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 23:32:39 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 23:32:39 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 23:32:39 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 23:36:35 - The session is destroyed:  0BD9223F921E30192BC1D346D6D0563E
-2025-01-20 23:36:41 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 23:36:41 - The session has been created:  30ABE31EF38AE383FB6FDCEEA6B716C8
-2025-01-20 23:36:41 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 23:36:49 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 23:36:49 - Login attempt -> username=admin
-2025-01-20 23:36:49 - Successful login -> admin
-2025-01-20 23:36:49 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 23:36:51 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 23:36:52 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 23:36:52 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 23:36:52 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 23:41:57 - The session is destroyed:  30ABE31EF38AE383FB6FDCEEA6B716C8
-2025-01-20 23:41:58 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 23:41:58 - The session has been created:  C4E3C2A5D8513C275AC60ED7D92C1848
-2025-01-20 23:41:58 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 23:42:10 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 23:42:10 - Login attempt -> username=admin
-2025-01-20 23:42:10 - Successful login -> admin
-2025-01-20 23:42:10 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 23:42:12 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 23:42:12 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 23:42:12 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 23:42:12 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 23:45:10 - The session is destroyed:  C4E3C2A5D8513C275AC60ED7D92C1848
-2025-01-20 23:45:16 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 23:45:16 - The session has been created:  E7A8C3A7D90E01CB65FFE4BD0742014F
-2025-01-20 23:45:16 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 23:45:24 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 23:45:24 - Login attempt -> username=admin
-2025-01-20 23:45:24 - Successful login -> admin
-2025-01-20 23:45:24 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 23:45:28 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 23:45:28 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 23:45:28 - The request has been initialized: 0:0:0:0:0:0:0:1
-2025-01-20 23:45:28 - The request is destroyed: 0:0:0:0:0:0:0:1
-2025-01-20 23:52:30 - The session is destroyed:  E7A8C3A7D90E01CB65FFE4BD0742014F
+2025-01-21 18:27:15 - The session is destroyed:  2A8FCC2E21C85A045309E447A15D5C86
+2025-01-21 18:37:57 - The request has been initialized: 127.0.0.1
+2025-01-21 18:37:57 - The request is destroyed: 127.0.0.1
+2025-01-21 18:37:57 - The request has been initialized: 127.0.0.1
+2025-01-21 18:37:57 - The request is destroyed: 127.0.0.1
+2025-01-21 18:37:57 - The request has been initialized: 0:0:0:0:0:0:0:1
+2025-01-21 18:37:57 - The request is destroyed: 0:0:0:0:0:0:0:1
+2025-01-21 18:38:05 - The request has been initialized: 0:0:0:0:0:0:0:1
+2025-01-21 18:38:05 - Login attempt -> username=admin
+2025-01-21 18:38:05 - The session has been created:  DC3191C497FA48614AFD9332BB2EDF53
+2025-01-21 18:38:05 - Successful login -> admin
+2025-01-21 18:38:05 - The request is destroyed: 0:0:0:0:0:0:0:1
+2025-01-21 18:38:07 - The request has been initialized: 0:0:0:0:0:0:0:1
+2025-01-21 18:38:07 - The user -> admin went to the todolist page
+2025-01-21 18:38:08 - The request is destroyed: 0:0:0:0:0:0:0:1
+2025-01-21 18:38:08 - The request has been initialized: 0:0:0:0:0:0:0:1
+2025-01-21 18:38:08 - The request is destroyed: 0:0:0:0:0:0:0:1
+2025-01-21 18:38:16 - The request has been initialized: 0:0:0:0:0:0:0:1
+2025-01-21 18:38:16 - The request is destroyed: 0:0:0:0:0:0:0:1
+2025-01-21 18:38:19 - The request has been initialized: 0:0:0:0:0:0:0:1
+2025-01-21 18:38:19 - The request is destroyed: 0:0:0:0:0:0:0:1
+2025-01-21 18:38:24 - The request has been initialized: 0:0:0:0:0:0:0:1
+2025-01-21 18:49:05 - The request is destroyed: 0:0:0:0:0:0:0:1
+2025-01-21 18:49:05 - The session is destroyed:  DC3191C497FA48614AFD9332BB2EDF53
+2025-01-21 18:49:13 - The request has been initialized: 127.0.0.1
+2025-01-21 18:49:13 - The request is destroyed: 127.0.0.1
+2025-01-21 18:49:13 - The request has been initialized: 127.0.0.1
+2025-01-21 18:49:13 - The request is destroyed: 127.0.0.1
+2025-01-21 18:49:13 - The request has been initialized: 0:0:0:0:0:0:0:1
+2025-01-21 18:49:13 - The request is destroyed: 0:0:0:0:0:0:0:1
+2025-01-21 18:49:21 - The request has been initialized: 0:0:0:0:0:0:0:1
+2025-01-21 18:49:21 - Login attempt -> username=admin
+2025-01-21 18:49:21 - The session has been created:  A2B3B8124A71BE2F16ED4B368226E6D5
+2025-01-21 18:49:21 - Successful login -> admin
+2025-01-21 18:49:21 - The request is destroyed: 0:0:0:0:0:0:0:1
+2025-01-21 18:49:23 - The request has been initialized: 0:0:0:0:0:0:0:1
+2025-01-21 18:49:23 - The user -> admin went to the todolist page
+2025-01-21 18:49:24 - The request is destroyed: 0:0:0:0:0:0:0:1
+2025-01-21 18:49:24 - The request has been initialized: 0:0:0:0:0:0:0:1
+2025-01-21 18:49:24 - The request is destroyed: 0:0:0:0:0:0:0:1
+2025-01-21 18:49:59 - The request has been initialized: 0:0:0:0:0:0:0:1
+2025-01-21 18:49:59 - New Task: почитать книгу Spring Framefork
+2025-01-21 18:49:59 - The request is destroyed: 0:0:0:0:0:0:0:1
+2025-01-21 18:51:25 - The request has been initialized: 0:0:0:0:0:0:0:1
+2025-01-21 18:51:25 - The request is destroyed: 0:0:0:0:0:0:0:1
+2025-01-21 18:51:45 - The request has been initialized: 0:0:0:0:0:0:0:1
+2025-01-21 18:51:45 - The request is destroyed: 0:0:0:0:0:0:0:1
+2025-01-21 18:53:09 - The session is destroyed:  A2B3B8124A71BE2F16ED4B368226E6D5
+2025-01-21 18:53:13 - The request has been initialized: 127.0.0.1
+2025-01-21 18:53:13 - The request is destroyed: 127.0.0.1
+2025-01-21 18:53:13 - The request has been initialized: 127.0.0.1
+2025-01-21 18:53:13 - The request is destroyed: 127.0.0.1
+2025-01-21 18:53:14 - The request has been initialized: 0:0:0:0:0:0:0:1
+2025-01-21 18:53:14 - The request is destroyed: 0:0:0:0:0:0:0:1
+2025-01-21 18:53:38 - The request has been initialized: 0:0:0:0:0:0:0:1
+2025-01-21 18:53:38 - Login attempt -> username=user
+2025-01-21 18:53:38 - The session has been created:  5612E100C693318506BC723700CE238B
+2025-01-21 18:53:38 - Successful login -> user
+2025-01-21 18:53:38 - The request is destroyed: 0:0:0:0:0:0:0:1
+2025-01-21 18:53:41 - The request has been initialized: 0:0:0:0:0:0:0:1
+2025-01-21 18:53:41 - The user -> user went to the todolist page
+2025-01-21 18:53:42 - The request is destroyed: 0:0:0:0:0:0:0:1
+2025-01-21 18:54:14 - The request has been initialized: 0:0:0:0:0:0:0:1
+2025-01-21 18:54:14 - New Task: Выучить Патерны 
+2025-01-21 18:54:14 - The request is destroyed: 0:0:0:0:0:0:0:1
+2025-01-21 18:54:20 - The request has been initialized: 0:0:0:0:0:0:0:1
+2025-01-21 18:54:20 - The request is destroyed: 0:0:0:0:0:0:0:1
+2025-01-21 18:54:23 - The request has been initialized: 0:0:0:0:0:0:0:1
+2025-01-21 18:54:23 - The request is destroyed: 0:0:0:0:0:0:0:1
+2025-01-21 18:54:33 - The request has been initialized: 0:0:0:0:0:0:0:1
+2025-01-21 18:54:33 - The user logs out of the system -> user
+2025-01-21 18:54:33 - The session is destroyed:  5612E100C693318506BC723700CE238B
+2025-01-21 18:54:33 - User session user completed successfully
+2025-01-21 18:54:33 - The request is destroyed: 0:0:0:0:0:0:0:1
+2025-01-21 18:54:33 - The request has been initialized: 0:0:0:0:0:0:0:1
+2025-01-21 18:54:33 - The request is destroyed: 0:0:0:0:0:0:0:1
+2025-01-21 18:54:55 - The request has been initialized: 0:0:0:0:0:0:0:1
+2025-01-21 18:54:55 - The session has been created:  4DF04A4A7126D677EF15202AC6ABFCAB
+2025-01-21 18:54:55 - User redirected to 401 error page
+2025-01-21 18:54:55 - The request is destroyed: 0:0:0:0:0:0:0:1
+2025-01-21 18:54:55 - The request has been initialized: 0:0:0:0:0:0:0:1
+2025-01-21 18:54:55 - The request is destroyed: 0:0:0:0:0:0:0:1
+2025-01-21 18:55:12 - The request has been initialized: 0:0:0:0:0:0:0:1
+2025-01-21 18:55:12 - User redirected to 401 error page
+2025-01-21 18:55:12 - The request is destroyed: 0:0:0:0:0:0:0:1

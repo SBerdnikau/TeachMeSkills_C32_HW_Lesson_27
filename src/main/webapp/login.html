@@ -6,7 +6,6 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-
 <main class="main-wrapper">
     <h2 class="main-header">Welcome to our portal!</h2>
 
@@ -30,7 +29,6 @@
 <script>
     const urlParams = new URLSearchParams(window.location.search);
     const error = urlParams.get('error');
-
     if (error === 'true') {
         document.getElementById('errorMessage').style.display = 'block';
     }

@@ -10,11 +10,10 @@ import jakarta.servlet.http.HttpSession;
 
 import java.io.IOException;
 
-@WebServlet("/newTask")
+@WebServlet("/new-task")
 public class NewTask extends HttpServlet {
     @Override
     protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-
         HttpSession session =  req.getSession();
         String username = (String) session.getAttribute("username");
         if(username != null){

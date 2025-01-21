@@ -1,5 +1,7 @@
 package com.teachmeskills.lesson_27.repository;
 
+import com.teachmeskills.lesson_27.logger.LoggerUtil;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -18,11 +20,10 @@ public class ToDoRepository {
     }
 
     public static void newTask(String descriptionNewTask){
-        todoList.add(descriptionNewTask);
-    }
-
-    public static void deleteTask(int id){
-        todoList.remove(id);
+        if (descriptionNewTask != null || !descriptionNewTask.isBlank()){
+            LoggerUtil.logToFile("New Task: " + descriptionNewTask);
+            todoList.add(descriptionNewTask);
+        }
     }
 
 }

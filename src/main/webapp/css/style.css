@@ -42,6 +42,7 @@ body {
     margin-bottom: 20px;
     color: #333;
 }
+
 .login-form input {
     width: 100%;
     padding: 10px;
@@ -50,6 +51,7 @@ body {
     border-radius: 4px;
     box-sizing: border-box;
 }
+
 .login-form button {
     font-size: 13px;
     background-color: #4caf50;
@@ -82,15 +84,12 @@ body {
     background-color: #45a049;
 }
 
-
-
 footer {
     align-self: end;
     padding: 12px;
     background-color: #616161;
     color: #fff;
 }
-
 
 footer .author {
     font-size: 12px;
@@ -111,6 +110,7 @@ footer .author {
     margin-top: 6%;
     font-family: FreeMono, monospace;
 }
+
 .error-text{
     color: #333333;
     font-size: 2em;
@@ -118,6 +118,7 @@ footer .author {
     margin-top: 6%;
     font-family: FreeMono, monospace;
 }
+
 .error-link{
     display: block;
     color: #F08080;

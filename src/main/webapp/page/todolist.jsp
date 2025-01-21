@@ -28,7 +28,7 @@
         <div class="container">
             <hr>
             <div class="container text-left">
-                <form action="newTask" method="post">
+                <form action="new-task" method="post">
                     <button class="btn btn-success">Add Todo</button>
                     <input type="text" name="new-task" id="newtask">
                 </form>
@@ -47,8 +47,8 @@
                     out.println("<tr>");
                     out.println("<td>" + i + "</td>");
                     out.println("<td>" + ToDoRepository.getTodoList().get(i) + "</td>");
-                    out.println("<td class='d-flex'><form><button type='submit' class='btn btn-success'>Edit</button></form> &nbsp;&nbsp;&nbsp;&nbsp;");
-                    out.println("<form action='deleteTask' method='post'><button type='submit' class='btn btn-danger'  name='" + i  + "'>Delete</button></form></td>");
+                    out.println("<td class='d-flex'><form><button  class='btn btn-success'>Edit</button></form> &nbsp;&nbsp;&nbsp;&nbsp;");
+                    out.println("<form><button  class='btn btn-danger'  >Delete</button></form></td>");
                     out.println(" </tr>");
                 }
                 %>
