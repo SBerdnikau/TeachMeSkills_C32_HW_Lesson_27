@@ -4,55 +4,64 @@
 <head>
     <meta charset="UTF-8">
     <title>Todo-list</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
     <link rel="stylesheet" href="../css/style.css">
     <link rel="stylesheet" href="../css/todolist-style.css">
 </head>
+
 <body>
-<header class="header">
-    <p class="header-text">Welcome, dear <span class="red-span">${sessionScope["username"]}</span></p>
-    <div class="logout-button">
-        <form action="logout" method="get">
-            <button id="logoutButton" >Logout</button>
+
+<header class="container-fluid header-buttons">
+    <div class="d-flex justify-content-between">
+        <p class="header-text">Welcome, dear <span class="red-span">${sessionScope["username"]}</span></p>
+        <form action="logout" method="POST" >
+            <button type="submit" class="btn btn-danger button-logout">Logout</button>
         </form>
     </div>
 </header>
-<main class="main-wrapper">
+
+<main class="container-fluid about-wrapper">
 
     <h2 class="main-header">My Todo <span class="red-span">LIST</span>!</h2>
 
-    <section class="todo-table">
-        <div class="table">
-            <div class='row'>
-                <div class="header-cell">Description</div>
+    <div class="row">
+        <div class="container">
+            <hr>
+            <div class="container text-left">
+                <form action="newTask" method="post">
+                    <button class="btn btn-success">Add Todo</button>
+                    <input type="text" name="new-task" id="newtask">
+                </form>
             </div>
+            <br>
+            <table class="table table-bordered">
+                <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Description</th>
+                    <th>Actions</th>
+                </tr>
+                </thead>
+                <tbody>
+                <% for (int i = 1; i < ToDoRepository.getTodoList().size(); i++) {
+                    out.println("<tr>");
+                    out.println("<td>" + i + "</td>");
+                    out.println("<td>" + ToDoRepository.getTodoList().get(i) + "</td>");
+                    out.println("<td class='d-flex'><form><button type='submit' class='btn btn-success'>Edit</button></form> &nbsp;&nbsp;&nbsp;&nbsp;");
+                    out.println("<form action='deleteTask' method='post'><button type='submit' class='btn btn-danger'  name='" + i  + "'>Delete</button></form></td>");
+                    out.println(" </tr>");
+                }
+                %>
 
-        <div class='row'>
-            <% for(String task : ToDoRepository.getTodoList()){
-                out.println("<div class='cell'>" +   task  + "</div>");
-            }
-            %>
+                </tbody>
+
+            </table>
         </div>
-        </div>
-    </section>
+    </div>
+
 
 </main>
-<footer>
-    <p>&copy; 2025 Copyright</p>
-    <p class="author">Developer by berdnikausiarhei@gmail.by</p>
-</footer>
 
-<%--<script>--%>
-<%--    const urlParams = new URLSearchParams(window.location.search);--%>
-<%--    document.getElementById('logoutButton').addEventListener('click', function() {--%>
-<%--        fetch('logout', { method: 'POST' })--%>
-<%--            .then(response => {--%>
-<%--                if (response.ok) {--%>
-<%--                    window.location.href = 'login.html';--%>
-<%--                }--%>
-<%--            })--%>
-<%--            .catch(error => console.error('Error:', error));--%>
-<%--    });--%>
-<%--</script>--%>
 
 </body>
 </html>

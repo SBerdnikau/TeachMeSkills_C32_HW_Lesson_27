@@ -1,71 +1,24 @@
-.header{
-    display: flex;
-    justify-content: space-between;
-    background-color: #333333;
-    font-size: 14px;
-    padding: 20px;
-    font-weight: 100;
-    color: #f4f4f4;
-    font-family: sans-serif;
-}
 
 .red-span{
     color: #F08080;
 }
 
+.header-buttons{
+    padding: 20px;
+    background-color: #333333;
+}
+
+.button-logout{
+    margin-left: 8px;
+}
+
 .header-text{
+    color: #f4f4f4;
     padding-top: 8px;
 }
 
-.todo-table{
-    display: flex;
-    justify-content: center;
-    margin-top: 120px;
-}
 
-.table{
-    display: table;
-}
 
-.cell{
-    padding: 12px;
-    border: 1px solid #888;
-}
 
-.header-cell{
-    padding: 12px;
-    margin-bottom: 14px;
-    border: none;
-    text-align: center;
-    font-size: large;
-    font-weight: 600;
-}
 
-.row{
-    display: table-row;
-}
-
-#logoutButton{
-    font-size: 1rem;
-    display: block;
-    margin-left: 8px;
-    color: #fff;
-    border: none;
-    border-radius: 4px;
-    padding: 10px 20px;
-    cursor: pointer;
-    width: 100%;
-    background-color: #dc3545;
-}
-
-#logoutButton:hover{
-    background-color: #bb2d3b;
-    border-color:  #b02a37;
-}
-
-@media (max-width: 768px) {
-.cell{
-    flex: 0 0 50%;
-}
-}
 
